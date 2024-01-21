@@ -1,1 +1,23 @@
-[{"id":"p01","name":"Instant Noodles","price":13000,"amount":380,"description":"Spicy Flavour"},{"id":"p02","name":"Coca-Cola Zero Sugar","price":14000,"amount":270,"description":"Has no sugar"},{"id":"p04","name":"Water","price":8000,"amount":400,"description":"It's good for you"}]
+[
+  {
+    "id": "p01",
+    "name": "Instant Noodles",
+    "price": 13000,
+    "amount": 430,
+    "description": "Spicy Flavour"
+  },
+  {
+    "id": "p02",
+    "name": "Coca-Cola Zero Sugar",
+    "price": 14000,
+    "amount": 270,
+    "description": "Has no sugar"
+  },
+  {
+    "id": "p04",
+    "name": "Water",
+    "price": 8000,
+    "amount": 400,
+    "description": "It's good for you"
+  }
+]
